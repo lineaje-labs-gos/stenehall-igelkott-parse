@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/stenehall/igelkott-parse/issues"
   },
-  "homepage": "https://github.com/stenehall/igelkott-parse"
+  "homepage": "https://github.com/stenehall/igelkott-parse",
+  "overrides": {
+    "ws": ">=8.21.3"
+  },
+  "resolutions": {
+    "ws": ">=8.21.3"
+  }
 }
