@@ -1,7 +1,7 @@
 {
   "name": "igelkott-parse",
   "description": "A Parse.com connection for Igelkott",
-  "version": "0.1.0",
+  "version": "0.1.0-lineaje-01",
   "main": "igelkott-parse.js",
   "dependencies": {
     "parse": "*"
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/stenehall/igelkott-parse.git"
+    "url": "https://github.com/lineaje-labs-gos/stenehall-igelkott-parse"
   },
   "bugs": {
     "url": "https://github.com/stenehall/igelkott-parse/issues"
